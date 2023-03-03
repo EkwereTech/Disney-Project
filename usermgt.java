@@ -4,3 +4,4 @@ Winnie
 Lion King
 Goofy
 Cinderella
+Stitch
