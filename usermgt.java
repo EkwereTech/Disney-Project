@@ -1,7 +1,7 @@
 Mickey
 Donald
 Winnie
-Lion King
+Simba
 Goofy
 Cinderella
 Stitch
